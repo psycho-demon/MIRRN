@@ -35,10 +35,6 @@ $ python mibr_train.py
 
 
 
-## Contact
-
-If you have any questions for our paper or codes, please send an email to demon@mail.ustc.edu.cn.
-
 
 
 ## Acknowledgment 
