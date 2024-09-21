@@ -26,7 +26,7 @@ We use three public real-world datasets (Taobao, Alipay and Tmall) in our experi
 
 ## Example
 
-If you have downloaded the source codes, you can train MIRRN model. You can modify the hyperparameters through A.
+If you have downloaded the source codes, you can train MIRRN model. 
 
 ```
 $ cd main
