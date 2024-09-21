@@ -1,4 +1,4 @@
-from .FFT import *
+from .MIRRN import *
 
 
 

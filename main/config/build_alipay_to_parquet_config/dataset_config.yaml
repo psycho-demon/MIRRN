@@ -13,9 +13,9 @@ alipay:
         name: cate_history, share_embedding: cate_id, feature_encoder: None, splitter: ^, type: sequence, padding: pre}
     label_col: {dtype: float, name: label}
     min_categr_count: 1
-    test_data: ../data/alipay/2test.csv
-    train_data: ../data/alipay/2train.csv
-    valid_data: ../data/alipay/2valid.csv
+    test_data: ../data/alipay/test.csv
+    train_data: ../data/alipay/train.csv
+    valid_data: ../data/alipay/valid.csv
 
 
 

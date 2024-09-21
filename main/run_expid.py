@@ -75,3 +75,4 @@ if __name__ == '__main__':
                               data_format=params["data_format"],
                               shuffle=False).make_iterator()
     model.evaluate(test_gen)
+

@@ -10,7 +10,7 @@ import logging
 if __name__ == '__main__':
     # Load params from config files
     config_dir = './config/build_taobao_to_parquet_config'
-    dataset_id = 'taobao_x0'
+    dataset_id = 'taobao'
     params = load_dataset_config(config_dir, dataset_id)
 
     # set up logger

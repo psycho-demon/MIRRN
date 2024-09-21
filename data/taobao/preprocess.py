@@ -173,3 +173,4 @@ if __name__ == "__main__":
     df, user_len, item_len, cate_len = remap(df, max_len)
     user_df, item_df = gen_user_item_group(df)
     gen_dataset(user_df, item_df, max_len, min_len)
+

@@ -13,8 +13,8 @@ tmall:
         name: cate_history, share_embedding: cate_id, feature_encoder: None, splitter: ^, type: sequence, padding: pre}
     label_col: {dtype: float, name: label}
     min_categr_count: 1
-    test_data: ../data/tmall/2test.csv
-    train_data: ../data/tmall/2train.csv
-    valid_data: ../data/tmall/2valid.csv
+    test_data: ../data/tmall/test.csv
+    train_data: ../data/tmall/train.csv
+    valid_data: ../data/tmall/valid.csv
 
 
