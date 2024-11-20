@@ -1,6 +1,6 @@
 # MIRRN
 
-This repository is the implementation for Paper "Exploring Multi-Granularity Interests for Long-Term User
+KDD2025!!! This repository is the implementation for Paper "Exploring Multi-Granularity Interests for Long-Term User
 Behavior Modeling in CTR Prediction".
 
 
