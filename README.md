@@ -1,6 +1,7 @@
 # MIRRN
 
-KDD2025!!! This repository is the implementation for Paper "Multi-granularity Interest Retrieval and Refinement Network for Long-Term User Behavior Modeling in CTR Prediction".
+KDD2025 ! ! ! 
+This repository is the implementation for Paper "Multi-granularity Interest Retrieval and Refinement Network for Long-Term User Behavior Modeling in CTR Prediction".
 
 
 
